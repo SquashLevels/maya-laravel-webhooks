@@ -1,5 +1,5 @@
 {
-    "name": "hellomayaagency/laravel-webhooks",
+    "name": "squashlevels/maya-laravel-webhooks",
     "description": "Laravel package to simpify the receipt, storage and handling of webhooks",
     "keywords": [
         "hellomayaagency",
